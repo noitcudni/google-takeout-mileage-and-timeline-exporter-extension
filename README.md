@@ -1,7 +1,7 @@
 # Overview
 Assuming that you've already been letting Google tracking your movements via your smart phone, you can have assess to all your location data for free. This extension helps you siphoning through that massive amount of data and distills them to useful bits of information for you to download in CSV format. This is a great tool for generating reports for your business needs.
 
-This extension doesn't rely on Google's Timeline API behind the scene. Due to Google's rate limiting on the API, it may be difficult to get data across several months. Instead, it process Google's Takeout data, so that it can easily process multiple months worth or even years worth of data in a fell swoop.
+Other existing products rely on Google's Timeline API behind the scene. Due to Google's rate limiting on the API, it may be difficult to get data across even just several months. My chrome extension, on the other hand, processes Google's Takeout data, so that it can easily crunch through multiple months worth or even years worth of data in one go.
 
 By the way, it also handles timezone.
 
